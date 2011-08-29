@@ -19,8 +19,13 @@ describe "LayoutLinks" do
       end
 
       it "should have a Help page at '/help'" do
-        get '/helpt'
+        get '/help'
         response.status.should be('title', :content => "Help")
+      end
+
+      it "should have a Help page at '/signup'" do
+        get '/signup'
+        response.status.should be('title', :content => "Sign up")
       end
   end
 end
