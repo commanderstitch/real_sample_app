@@ -12,4 +12,5 @@ gem 'sqlite3', :require => 'sqlite3'
 
 group :test do
   gem 'rspec', '2.6.0'
+  gem 'factory_girl_rails', '1.0'
 end
