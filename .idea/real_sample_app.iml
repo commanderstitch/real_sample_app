@@ -18,8 +18,8 @@
     <orderEntry type="library" scope="PROVIDED" name="factory_girl_rails (v1.0, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="annotate (v2.4.0, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.6.6, RVM: ruby-1.9.2-p290) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="factory_girl (v1.3.3, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.9.3, RVM: ruby-1.9.2-p290) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="factory_girl (v1.3.3, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rspec-core (v2.6.4, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="actionmailer (v3.0.10, RVM: ruby-1.9.2-p290) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="railties (v3.0.10, RVM: ruby-1.9.2-p290) [gem]" level="application" />
