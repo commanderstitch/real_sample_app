@@ -48,15 +48,11 @@ class UsersController < ApplicationController
 
   def destroy
     @user.destroy
-    flash[:success] = "User destroyed HAHAHAHAHA he's GONE history BYE BYE yes!! ahahaha!!'"
+    flash[:success] = "User destroyed HAHAHAHAHA he's GONE history BYE BYE yes!! ahahaha!!"
     redirect_to users_path
   end
 
   private
-
-  def authenticate
-    deny_access unless signed_in?
-  end
 
   def correct_user
     @user = User.find(params[:id])
